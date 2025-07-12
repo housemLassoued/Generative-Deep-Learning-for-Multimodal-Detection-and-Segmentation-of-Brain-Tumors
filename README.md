@@ -14,7 +14,7 @@ You can download the presentation PowerPoint here:
 
 You can also download the speech script here:
 
-➡️ [**Download Speech Script**](./docs/Presentation_Speech.pdf)
+➡️ [**Download Speech Script**](./docs/Speech.txt)
 
 ---
 
