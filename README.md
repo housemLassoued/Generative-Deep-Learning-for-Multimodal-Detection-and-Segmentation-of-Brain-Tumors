@@ -10,7 +10,7 @@ This repository contains materials related to my research project on applying ge
 
 You can download the presentation PowerPoint here:
 
-➡️ [**Download Presentation**](./docs/Presentation.pptx)
+➡️ [**Download Presentation**](Presentation.pptx)
 
 You can also download the speech script here:
 
