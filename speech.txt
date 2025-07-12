@@ -3,7 +3,7 @@
 Hello everyone,  
 
 I am delighted to present our final-year project titled:  
-"Generative Deep Learning for Multimodal Detection and Segmentation of Brain Tumors."**  
+"Generative Deep Learning for Multimodal Detection and Segmentation of Brain Tumors."
 
 This work was carried out by myself, Houssem Lassoued, a student in industrial computer engineering, specializing in interconnected intelligent systems, under the expert guidance of Mr. Fathi Kallel and Mrs. Amira Echtioui. This project is also the result of a fruitful collaboration with the National Institute of Neurology Mongi Ben Hmida in Tunis, a public institution specialized in the management of neurological and neurosurgical pathologies.  
 
